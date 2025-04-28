@@ -1,0 +1,3 @@
+# Gpt-said...
+
+This material documents the utterances of a specific AI model (GPT) and does not assert them as factual statements.
